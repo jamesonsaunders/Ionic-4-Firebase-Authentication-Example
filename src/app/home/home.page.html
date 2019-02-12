@@ -1,12 +1,19 @@
 <ion-header>
   <ion-toolbar>
     <ion-title>
-      Ionic Blank
+      Jami Bot
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content padding>
-  The world is your oyster.
-  <p>If you get lost, the <a target="_blank" rel="noopener" href="https://ionicframework.com/docs/">docs</a> will be your guide.</p>
+  <p><a target="_blank" href="https://jamibot.com">Jami Bot Homepage</a></p>
+
+  <firebase-ui></firebase-ui>
+
+  <h1 *ngIf="afAuth.auth.currentUser">
+    Welcome {{afAuth.auth.currentUser.displayName}}!
+  </h1>
+
+  <ion-button *ngIf="afAuth.auth.currentUser" (click)="signOut()">Sign Out</ion-button>
 </ion-content>
