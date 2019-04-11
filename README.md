@@ -1,6 +1,6 @@
 # Ionic 4 Firebase Authentication Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Firebase Authentication Tutorial](https://youtu.be/BAG7Oig34RY).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Firebase Authentication Tutorial](https://youtu.be/BAG7Oig34RY) as well as the blog article [Ionic 4 Firebase Authentication Tutorial](https://blog.jamibot.com/ionic-4-firebase-authentication).
 
 [![Ionic 4 Firebase Authentication Tutorial](https://img.youtube.com/vi/BAG7Oig34RY/maxresdefault.jpg)](https://youtu.be/BAG7Oig34RY)
 
