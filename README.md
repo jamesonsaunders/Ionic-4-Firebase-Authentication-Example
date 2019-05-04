@@ -10,6 +10,10 @@ Here's a supplemental video: [Ionic 4 Firebase Phone Authentication Tutorial](ht
 
 [![Ionic 4 Firebase Phone Authentication Tutorial](https://img.youtube.com/vi/nWlhbTeoGyw/maxresdefault.jpg)](https://youtu.be/nWlhbTeoGyw)
 
+And another: [Ionic 4 Firebase Verify Email ](https://youtu.be/M-nTpVIyGw0).
+
+[![Ionic 4 Firebase Verify Email](https://img.youtube.com/vi/M-nTpVIyGw0/maxresdefault.jpg)](https://youtu.be/M-nTpVIyGw0)
+
 If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development tutorials.
 
 ## Installation
