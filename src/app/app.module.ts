@@ -19,7 +19,7 @@ const firebaseUiAuthConfig: firebaseui.auth.Config = {
   signInFlow: 'popup',
   signInOptions: [
     firebase.auth.EmailAuthProvider.PROVIDER_ID,
-    firebase.auth.PhoneAuthProvider.PROVIDER_ID,
+    // firebase.auth.PhoneAuthProvider.PROVIDER_ID,
   ],
   tosUrl: '/terms',
   privacyPolicyUrl: '/privacy',

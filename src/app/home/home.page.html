@@ -6,6 +6,19 @@
   </ion-toolbar>
 </ion-header>
 
+<ion-header *ngIf="!hasVerifiedEmail" padding class="verify-email">
+  <div>
+    Please send a verification email and verify your account
+  </div>
+  <div>
+    <ion-button color="secondary" (click)="sendVerificationEmail()">Send Verification Email</ion-button>
+    <ion-button color="secondary" (click)="reload()">Refesh</ion-button>
+  </div>
+  <div *ngIf="sentTimestamp">
+    Verification email sent at {{sentTimestamp | date:'medium'}}
+  </div>
+</ion-header>
+
 <ion-content padding>
   <p><a target="_blank" href="https://jamibot.com">Jami Bot Homepage</a></p>
 
