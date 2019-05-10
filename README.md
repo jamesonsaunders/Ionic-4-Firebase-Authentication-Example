@@ -6,11 +6,7 @@ This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ioni
 
 A minimal example of how to get the Firebase authentication working on your own site.
 
-Here's a supplemental video: [Ionic 4 Firebase Phone Authentication Tutorial](https://youtu.be/nWlhbTeoGyw).
-
-[![Ionic 4 Firebase Phone Authentication Tutorial](https://img.youtube.com/vi/nWlhbTeoGyw/maxresdefault.jpg)](https://youtu.be/nWlhbTeoGyw)
-
-And another: [Ionic 4 Firebase Verify Email ](https://youtu.be/M-nTpVIyGw0).
+Here's a supplemental videoo: [Ionic 4 Firebase Verify Email ](https://youtu.be/M-nTpVIyGw0).
 
 [![Ionic 4 Firebase Verify Email](https://img.youtube.com/vi/M-nTpVIyGw0/maxresdefault.jpg)](https://youtu.be/M-nTpVIyGw0)
 
