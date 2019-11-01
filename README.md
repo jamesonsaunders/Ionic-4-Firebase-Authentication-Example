@@ -1,16 +1,16 @@
 # Ionic 4 Firebase Authentication Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Firebase Authentication Tutorial](https://youtu.be/BAG7Oig34RY) as well as the blog article [Ionic 4 Firebase Authentication Tutorial](https://blog.jamibot.com/ionic-4-firebase-authentication).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Ionic 4 Firebase Authentication Tutorial](https://youtu.be/BAG7Oig34RY) as well as the blog article [Ionic 4 Firebase Authentication Tutorial](https://blog.jamibot.com/ionic-4-firebase-authentication).
 
 [![Ionic 4 Firebase Authentication Tutorial](https://img.youtube.com/vi/BAG7Oig34RY/maxresdefault.jpg)](https://youtu.be/BAG7Oig34RY)
 
 A minimal example of how to get the Firebase authentication working on your own site.
 
-Here's a supplemental videoo: [Ionic 4 Firebase Verify Email ](https://youtu.be/M-nTpVIyGw0).
+Here's a supplemental videoo: [Ionic 4 Firebase Verify Email](https://youtu.be/M-nTpVIyGw0).
 
 [![Ionic 4 Firebase Verify Email](https://img.youtube.com/vi/M-nTpVIyGw0/maxresdefault.jpg)](https://youtu.be/M-nTpVIyGw0)
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development tutorials.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web and mobile development tutorials.
 
 ## Installation
 
